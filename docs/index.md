@@ -8,7 +8,7 @@ hero:
   text: Donut通用管理系统
   tagline: 一款基于SpringBoot3、JDK17、SaToken、MybatisPlus的开源管理系统
   image:
-    src: ./images/logo.png
+    src: logo.png
     alt: VitePress
   actions:
     - theme: brand
