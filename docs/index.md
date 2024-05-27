@@ -4,9 +4,9 @@ layout: home
 
 #
 hero:
-  name: Donut-Admin
-  text: Donut通用管理系统
-  tagline: 一款基于SpringBoot3、JDK17、SaToken、MybatisPlus的开源管理系统
+  name: Donut Admin
+  text: 甜甜圈通用管理系统
+  tagline: 一款基于SpringBoot3、JDK17、SaToken、MybatisPlus的开源多租户（Saas）管理系统
   image:
     src: logo.png
     alt: VitePress

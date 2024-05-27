@@ -9,7 +9,9 @@ export default {
 				text: "指南",
 				items: [
 					{ text: "快速入门", link: "/guide/use" },
+					{ text: "租户使用", link: "/guide/tenant" },
 					{ text: "更新日志", link: "/guide/changeLog" },
+					{ text: "开发计划", link: "/guide/devPlan" },
 				],
 			},
 		],
